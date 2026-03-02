@@ -1,0 +1,13 @@
+/*
+Theme Name: SW Headless Theme
+Theme URI: https://github.com/dazza-dev/sw-headless-theme
+Description: Minimal headless WordPress theme - All rendering happens in your frontend framework
+Author: Seniors, DazzaDev
+Version: 1.0.0
+License: MIT
+Text Domain: sw-headless
+
+This is a headless WordPress theme.
+All frontend rendering is handled by your chosen framework (Astro, Next.js, Nuxt, etc.).
+This theme only provides menu locations and minimal backend functionality.
+*/
